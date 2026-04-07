@@ -29,10 +29,18 @@ working independently with discipline and focus.
 ---
 
 ### 🔭 Current Focus
-- ⚡ **Available for:** Frontend Developer Internships (Remote/New Delhi)
-- 🛠️ **Building:** [Advanced To-Do App](https://github.com/mahinmirzagit/TODO-App) with enhanced UI/UX.
-- 📚 **Learning:** Deep diving into React State Management and TypeScript.
-- 💬 **Ask me about:** HTML/CSS architecture, responsive design, and Python basics.
+
+- 🚀 **Contributing to:** [ParadigmShift](https://frontend-employee-taupe.vercel.app/) — A high-performance HRMS Ecosystem.
+    - **Core Architecture:** Engineered a dual-panel system (Admin & Employee) using **ReactJS + Firebase**.
+    - **Admin Engine:** Automated payroll, real-time analytics, and departmental oversight.
+    - **Employee Portal:** Built task tracking, real-time proof submission, and automated leave management.
+    - **Impact:** Focused on delivering a collaborative, scalable solution for organizational productivity.
+
+- 📚 **Expanding Knowledge:**
+    - Deep diving into **Full-Stack Development** (Deep Backend Architecture & Scalable Systems).
+    - Mastering **TypeScript** for enterprise-grade type safety.
+
+- 💡 **Technical Consultations:** - Available for discussions on **HTML/CSS Architecture**, **UI/UX Strategy**, and **Responsive System Design**.
 
 ---
 
