@@ -1,6 +1,6 @@
 # Hi, I'm Mahin
 
-### Frontend Developer | UI/UX Enthusiast | B.Tech CSE Student
+### Frontend Developer | Python, Java Dev | B.Tech CSE Student
 Detail-oriented and highly motivated Computer Science Engineering student with strong skills in web development,
 Python development, and Java development. Passionate about building real-world applications, freelancing, and continuously learning new technologies. Experienced in delivering functional projects, managing tasks efficiently, and
 working independently with discipline and focus.
