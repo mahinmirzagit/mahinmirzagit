@@ -28,6 +28,22 @@ working independently with discipline and focus.
 
 ---
 
+### 📂 Project 01: LibroHub
+
+**LibroHub** is a sophisticated, subscription-based Library Management Ecosystem designed for high-density book tracking and user management.
+
+- 🛠️ **Core Tech:** Built with a focus on **Frontend Architecture** and **Database Integrity**.
+- 📑 **Subscription Logic:** Integrated a tiered access system for different organizational roles.
+- 🔍 **Smart Search:** Developed an optimized filtering system for instant book discovery and availability tracking.
+- 📊 **Resource Analytics:** Dashboard for administrators to monitor circulation trends and inventory health.
+
+> [!TIP]
+> **View Technical Breakdown:** [LibroHub Repository](https://github.com/mahinmirzagit/library-system)
+
+---
+
+---
+
 ### 🔭 Current Focus
 
 - 🚀 **Contributing to:** [ParadigmShift](https://frontend-employee-taupe.vercel.app/) — A high-performance HRMS Ecosystem.
