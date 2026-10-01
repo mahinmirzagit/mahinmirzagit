@@ -1,68 +1,92 @@
-# Hi, I'm Mahin
+<h1 align="center">Hi, I'm Mahin Mirza</h1>
 
-### Frontend Developer | Python, Java Dev | B.Tech CSE @KRMU 2028
-Detail-oriented and highly motivated Computer Science Engineering student with strong skills in web development,
-Python development, and Java development. Passionate about building real-world applications, freelancing, and continuously learning new technologies. Experienced in delivering functional projects, managing tasks efficiently, and
-working independently with discipline and focus.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend Development**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Programming & Databases**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design & Version Control**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Quick Stats & Activity
+<h3 align="center">Full-Stack Developer building secure, high-performance web applications with the MERN stack</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmirzagit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+  B.Tech CSE '28 &nbsp;|&nbsp; Product Manager and Design Head at eOzka &nbsp;|&nbsp; Microsoft Azure Fundamentals (AZ-900)
 </p>
 
 ---
 
-### 📂 Project 01: LibroHub
+## About Me
 
-**LibroHub** is a sophisticated, subscription-based Library Management Ecosystem designed for high-density book tracking and user management.
+Full-Stack Developer and Computer Science student at K.R. Mangalam University who ships responsive, scalable web applications on the MERN stack. I have delivered projects for 40+ international clients on Fiverr with a 5.0/5.0 rating, and I lead product and design at eOzka, where I run sprint planning, code reviews, and engineering handoffs. I care about clean REST API design, measurable front-end performance, and code other engineers can maintain.
 
-- 🛠️ **Core Tech:** Built with a focus on **Frontend Architecture** and **Database Integrity**.
-- 📑 **Subscription Logic:** Integrated a tiered access system for different organizational roles.
-- 🔍 **Smart Search:** Developed an optimized filtering system for instant book discovery and availability tracking.
-- 📊 **Resource Analytics:** Dashboard for administrators to monitor circulation trends and inventory health.
-
-> [!TIP]
-> **View Technical Breakdown:** [LibroHub Repository](https://github.com/mahinmirzagit/library-system)
+- **Building:** ParadigmShift, an HRMS portal (React, Node.js, MongoDB)
+- **Researching:** AI-focused applications with real-time REST data flows at the Center of Excellence in AI, KRMU
+- **Learning:** TypeScript and scalable backend architecture
+- **Open to:** Full-Stack Developer and Junior Software Engineer roles
 
 ---
 
+## Core Ecosystem
+
+- **Languages:**
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Frontend:**
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- **Backend and Data:**
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **Cloud and Deployment:**
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- **Tooling and Design:**
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- **E-commerce and CMS:**
+  ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 ---
 
-### 🔭 Current Focus
+## Featured Projects
 
-- 🚀 **Contributing to:** [ParadigmShift](https://frontend-employee-taupe.vercel.app/) — A high-performance HRMS Ecosystem.
-    - **Core Architecture:** Engineered a dual-panel system (Admin & Employee) using **ReactJS + Firebase**.
-    - **Admin Engine:** Automated payroll, real-time analytics, and departmental oversight.
-    - **Employee Portal:** Built task tracking, real-time proof submission, and automated leave management.
-    - **Impact:** Focused on delivering a collaborative, scalable solution for organizational productivity.
+### 🚀 [ParadigmShift: HRMS Portal](https://github.com/mahinmirzagit/paradigmshift-hrms)
 
-- 📚 **Expanding Knowledge:**
-    - Deep diving into **Full-Stack Development** (Deep Backend Architecture & Scalable Systems).
-    - Mastering **TypeScript** for enterprise-grade type safety.
+Full-stack HRMS portal that centralizes employee data for HR and staff through dynamic, API-driven views, cutting page-load latency by 25% through asset bundling and component lazy-loading.
 
-- 💡 **Technical Consultations:** - Available for discussions on **HTML/CSS Architecture**, **UI/UX Strategy**, and **Responsive System Design**.
+- 🛠️ **Key Technologies:** React, Tailwind CSS, React Context API, Node.js, MongoDB, REST APIs, Vercel
+- **Live Demo:** [frontend-employee-taupe.vercel.app](https://frontend-employee-taupe.vercel.app)
+
+### 🚀 [LibroHub: Library Management System](https://github.com/mahinmirzagit/library-system)
+
+Full-stack library platform with separate admin and reader dashboards that replaces manual catalog and user tracking with a relational SQLite backend, JWT-secured REST endpoints, and Postman-validated CRUD workflows.
+
+- 🛠️ **Key Technologies:** Node.js, Express.js, SQLite, JWT, REST APIs, Postman, Vercel
+- **Live Demo:** [librohub-nine.vercel.app](https://librohub-nine.vercel.app)
 
 ---
 
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahin2006)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahin12112006@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mahinleetcode/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mahinmirzatwit)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587086444250)
+## GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahinmirzagit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinmirzagit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahin2006"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahin12112006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/mahinleetcode/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center">Open to Full-Stack Developer and Junior Software Engineer roles. Based in New Delhi, India.</p>
